@@ -1,0 +1,11 @@
+#include<iostream>
+
+using namespace std;
+
+int main(){
+    int semngka = 5000;
+    int melon = 4500;
+
+    count << ""
+
+}
